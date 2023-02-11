@@ -11,7 +11,7 @@ import SwiftUI
 struct swiftui_list_with_custom_cell_and_passing_dataApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            VideoListView()
         }
     }
 }
